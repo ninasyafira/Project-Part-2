@@ -1,0 +1,4 @@
+Mary,p,Mary,2080.24,1,2018
+Mary,c,Joycelyn,450,1,2018
+Mary,p,Mary,6000,12,2017
+Mary,c,Joycelyn,800.20,12,2017
